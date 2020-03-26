@@ -17,6 +17,9 @@ if you see this error,you can do;
 Reverts the file back to the original state.
 2-git pull--get changes from remote and merge again
 ******************************************************
+When you are in conflict;
+delete all =======, <<<<<< signs and again git add and commmit
+
 
 When you want to see another person's repository;
 1-go to project
