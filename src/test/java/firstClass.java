@@ -4,9 +4,27 @@ public class firstClass {
         System.out.println("changed");
         System.out.println("changed again");
         System.out.println("changed 3");
+        //first change
+/*
+Please commit your changes or stash them before you merge.
+Aborting
+misss-MacBook-Air:fall-2019-git-practice Journalist$
+
+When you make changes both in class and github and pull it,it shows above error.
+We cant make changes at the same time two different places.
+if you see this error,you can do;
+1-git stash--puts the changes in a safe place.
+Reverts the file back to the original state.
+2-git pull--get changes from remote and merge again
+
+ */
+
+
+
 
       //first change
-     
+
+
         /*
 
          */
