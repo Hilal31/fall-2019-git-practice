@@ -16,8 +16,14 @@ if you see this error,you can do;
 1-git stash--puts the changes in a safe place.
 Reverts the file back to the original state.
 2-git pull--get changes from remote and merge again
+******************************************************
+
+When you want to see another person's repository;
+1-go to project
+2-
 
  */
+
 
 
 
